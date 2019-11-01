@@ -1,0 +1,32 @@
+weisler
+316493758
+Nadav Weisler
+
+I discussed about the exercise with: Avi Tetruk and Or Naim.
+
+======================================
+=  README for ex5: Lists and files   =
+======================================
+
+==================
+=  Description:  =
+==================
+wordsearch.py - Contains word search and all sub functions
+check_wordsearch.py - Contains tests for merge_directories
+
+
+======================
+=  Special Comments  =
+======================
+
+my inputs for merge_dictionaries are:
+* merge_dictionaries({}, {}) - two empty dictionaries,
+    return empty dictionaries
+* merge_dictionaries({}, {'hello': 1}) - one empty dictionaries and one with element,
+    return dictionary equal to the second one
+* merge_dictionaries({'hello': 1}, {}) - one empty dictionaries and one with element,
+    return dictionary equal to the second one
+* merge_dictionaries({'hello': 1}, {'chair': 1}) - two dictionaries with diffrent elements,
+    return merge dictionaries
+* merge_dictionaries({'hello': 1, 'chair': 1}, {'hello': 1}) - two dictionaries with some overlap,
+    return merge dictionaries

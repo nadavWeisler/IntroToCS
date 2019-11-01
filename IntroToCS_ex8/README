@@ -1,0 +1,15 @@
+weisler
+316493758
+Nadav Weisler
+
+I discussed about the exercise with: Adi Hava Tamari
+
+==========================================
+=  README for ex8: sudoku   =
+==========================================
+
+==================
+=  Description:  =
+==================
+ex8.py - Contains sudoku solving algorithm and
+        some diffrent handles with subsets

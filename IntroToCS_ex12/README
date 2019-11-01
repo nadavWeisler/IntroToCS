@@ -1,0 +1,40 @@
+Adi_Hava, weisler
+208980755, 316493958
+Adi Hava Tamari, Nadav Weisler
+
+=============================
+= README for ex12  =
+=============================
+I spoke with Nadav Weisler about this exercise.
+==================
+=  Description:  =
+==================
+The design idea inspired by "A Tale of Five Balloons" the colors and the names
+are all taken from the the story.
+
+We'll explain the files and classes division:
+
+four_in_a_row - Here everything happens. All the classes are combined to the
+game. There is no special class in this file.
+
+game - All the brain of the game is written here in a sleek class. The players
+can play and change the board as they go.
+
+player - The logic behind single player packed into a class. This player fits
+not just for a manual player - but also an ai. The type of the player is
+defined by a default boolean parameter.
+
+ai - Here the magic happens. Algorithm will calculate the next move and the
+ideal player created. But don't worry - You can still control the level of the
+difficulty. You can deal with level 1 - but in level 3, the computer will beat
+the you in no time.
+
+screen_gui - What you see what you are in the game? Everything is written right
+here. All the screen GUI is gathered into a class.
+
+menu_gui - Before you can take a game, you should set the game as you want - Do
+ you have friend to play with? Or, for example, you want play challenging game
+ against the computer? Here is the GUI for the entrance for the game.
+
+There is detailed documentation in the code for every function.
+

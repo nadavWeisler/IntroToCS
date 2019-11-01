@@ -1,0 +1,23 @@
+weisler
+316493758
+Nadav Weisler
+
+I discussed about the exercise with: Adi Hava Tamari
+
+==========================================
+=  README for ex9: Rush Hour   =
+==========================================
+
+==================
+=  Description:  =
+==================
+board.py - Contains Board object for 'Rush-Hour' game
+    Board object contains __board(matrix), __cars(list)
+    and several functions
+car.py - Contains Car object for 'Rush-Hour' game
+    Cars object contains __length(number),
+        __orientation(0/1) __location(tuple), __name(string)
+        and several functions
+game.py - Contain Game object for 'Rush-Hour' game and main
+    Game object contains __cars(list), __board(Board)
+        and several functions

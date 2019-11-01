@@ -1,0 +1,20 @@
+weisler
+316493758
+Nadav Weisler
+
+=============================
+=  README for ex1: Hello Turtle  =
+=============================
+
+==================
+=  Description:  =
+==================
+cell_to_far.py - Convert fahrenheit to celsius
+expression_mathematical_calculate.py - Solve simple mathematical equations
+largest_and_smallest.py - print the largest and smallest number between 3
+price_stable.py - check if price remain stable during 3 years
+quadratic_equation.py - solve quadratic equation
+shapes.py - return rectangle, circle and equilateral triangle area
+check_largest_and_smallest - test largest_and_smallest with 5 different inputs
+
+What's up Doc?

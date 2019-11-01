@@ -1,0 +1,38 @@
+weisler
+316493758
+Nadav Weisler
+
+=============================
+=  README for ex3: Loops  =
+=============================
+
+==================
+=  Description:  =
+==================
+ex3.py - contain 9 functions: input_list, concat_list, maximum, cyclic, seven_boom, histogram, prime_factors,
+   cartesian, pairs
+check_maximum.py - Check maximum function with some inputs
+
+============================
+=  Check maximum tests:  =
+============================
+
+[1, 1, 1, 1, 1, 1, 1] - Same value
+[1] - one value
+[1, 2, 3, 4, 5] - ascending order
+[5, 4, 3, 2, 1] - descending order
+[1, 0, 1], - same value as biggest
+
+============================
+=  Theoretical questions  =
+============================
+cyclic(123 ,321) - throw exception, get 2 integers and not list
+maximum([-3, -2, -1]) - -1, just because my code handle minuses
+maximum([1, 10, 100, ‘intro’]) - throw exception, 'intro' is not an integer
+histogram(3, [1,2,3,4]) - [0, 1, 1] because the list contain 4
+    that bigger than out given number (3)
+prime_factors(0) - [], my function check for positive numbers only
+pairs([0,0,1,1,2,2], 2) - [[0, 2], [1, 1]], my function does not handle list with
+    equal values
+
+What's up Doc?

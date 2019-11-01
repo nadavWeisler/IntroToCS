@@ -1,0 +1,22 @@
+weisler
+316493758
+Nadav Weisler
+
+=============================
+=  README for ex1: Hello Turtle  =
+=============================
+
+==================
+=  Description:  =
+==================
+hello_turtle.py - Draw 3 flowers using "turtle" library.
+math_print.py - Print few calculations using "math" library.
+additional_file - include secret_function
+
+======================
+=  Special Comments  =
+======================
+
+This exercise goal was to verify that the student knows how to use turtle and math libraries.
+
+What's up Doc?

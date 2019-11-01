@@ -1,0 +1,33 @@
+weisler
+316493758
+Nadav Weisler
+
+=============================
+=  README for ex4: Hangman  =
+=============================
+
+==================
+=  Description:  =
+==================
+hangman.py - Coding the game "hangman" using hangmen_helper.py
+check_update_word_pattern.py - Test several inputs for the
+    function "update_word_pattern from hangman.py
+
+============================
+=  Section C - q1  =
+============================
+
+update_word_pattern("hello", "_____", "h"): Check if works when pattern is blank
+update_word_pattern("hello", "hell_", "h"): Check what happen if the letter is already been revealed
+update_word_pattern("hello", "hell_", "o"): Ordinary case
+update_word_pattern("hello", "h____", "d"): Check what happen if the letter is not in the word
+
+
+============================
+=  Section C - q2  =
+============================
+To make hangman.py work with Hebrew to we should set
+Hebrew alphabet as a valid input letter
+and also loop on Hebrew alphabet too on choose_letter
+
+What's up Doc?

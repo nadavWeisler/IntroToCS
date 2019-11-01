@@ -1,0 +1,25 @@
+weisler
+316493758
+Nadav Weisler
+
+I discussed about the exercise with: Adi Hava Tamari
+
+==========================================
+=  README for ex7: recursive programing   =
+==========================================
+
+==================
+=  Description:  =
+==================
+ex7.py - Contains some recursive functions
+
+
+======================
+=  Special Comments  =
+======================
+
+Run time analysis:
+
+is_prime: O(n/2)
+print_no_repetition_sequences: O((n^2)*(m^2)
+flood_fill: O(n)

@@ -1,0 +1,18 @@
+weisler
+316493758
+Nadav Weisler
+
+I discussed about the exercise with: Adi Hava Tamari
+
+==========================================
+=  README for ex11: Decision Trees   =
+==========================================
+
+==================
+=  Description:  =
+==================
+ex11.py - Contains illness Diagnoser using decision trees.
+    Contain Diagnoser, Node and Record classes and several functions
+    include build tree and get the optimal one from given records and
+    symptoms.
+    Also contains several tests for the main functions
